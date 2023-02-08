@@ -1,4 +1,4 @@
-# Password Protection Lab
+~# Password Protection Lab
 
 ## Learning Goals
 
